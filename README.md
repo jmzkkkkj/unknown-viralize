@@ -77,7 +77,6 @@
                         <img src="https://randomuser.me/api/portraits/women/68.jpg" class="w-10 h-10 rounded-full border-2 border-white">
                     </div>
                     <p class="ml-3 text-sm">+5.000 criadores já transformaram seus perfis</p>
-                </div>
             </div>
             <div class="md:w-1/2 flex justify-center">
                 <div class="relative">
@@ -91,7 +90,7 @@
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8">
         <div class="container mx-auto px-4 text-center">
-            <p>&copy; 2025 ViralTik. Todos os direitos reservados.</p>
+            <p>&copy; 2025 UnknownTik. Todos os direitos reservados.</p>
         </div>
     </footer>
     <!-- Features Section -->
