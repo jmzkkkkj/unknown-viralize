@@ -1,4 +1,4 @@
-<html lang="pt-BR">
+<h<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,7 +34,7 @@
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
             <div class="flex items-center">
                 <i class="fab fa-tiktok text-2xl text-pink-600 mr-2"></i>
-                <span class="text-xl font-bold bg-gradient-to-r from-blue-400 to-pink-600 bg-clip-text text transparent">UnknownViral</span>
+                <span class="text-xl font-bold bg-gradient-to-r from-blue-400 to-pink-600 bg-clip-text text-transparent">UnkanownTIK</span>
             </div>
             <nav class="hidden md:flex space-x-8">
                 <a href="#features" class="text-gray-700 hover:text-pink-600 font-medium">Benefícios</a>
@@ -83,4 +83,19 @@
             <div class="md:w-1/2 flex justify-center">
                 <div class="relative">
                     <img src="https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg" alt="Capa do guia TikTok edição 2025" class="w-64 md:w-80 rounded-lg shadow-2xl floating">
-                    <div class="absolute -bottom-5
+                    <div class="absolute -bottom-5 -right-5 bg-yellow-400 text-gray-900 px-4 py-2 rounded-full font-bold text-sm">
+                        <i class="fas fa-bolt mr-1"></i> NOVA EDIÇÃO 2025
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-4 text-center">
+            <p>&copy; 2025 ViralTik. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
