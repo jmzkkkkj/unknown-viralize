@@ -5,6 +5,7 @@
     <title>Viralize no TikTok - O Guia Definitivo</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="caminho/para/favicon.ico" type="image/x-icon">
     <style>
         .hero-gradient {
             background: linear-gradient(135deg, #69bcf4 0%, #25fde9 50%, #fe2c55 100%);
@@ -47,6 +48,15 @@
         </div>
     </header>
 
+    <script>
+        const menuButton = document.querySelector('button');
+        const menu = document.querySelector('nav');
+
+        menuButton.addEventListener('click', () => {
+            menu.classList.toggle('hidden');
+        });
+    </script>
+
     <!-- Hero Section -->
     <section class="hero-gradient text-white py-16 md:py-24">
         <div class="container mx-auto px-4 flex flex-col md:flex-row items-center">
@@ -72,91 +82,5 @@
             </div>
             <div class="md:w-1/2 flex justify-center">
                 <div class="relative">
-                    <img src="https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg" alt="" class="w-64 md:w-80 rounded-lg shadow-2xl floating">
-                    <div class="absolute -bottom-5 -right-5 bg-yellow-400 text-gray-900 px-4 py-2 rounded-full font-bold text-sm">
-                        <i class="fas fa-bolt mr-1"></i> NOVA EDIÇÃO 2025
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Trust Badges -->
-    <div class="bg-gray-100 py-6">
-        <div class="container mx-auto px-4">
-            <div class="flex flex-wrap justify-center items-center gap-8 md:gap-16">
-                <div class="flex items-center">
-                    <i class="fas fa-medal text-3xl text-yellow-500 mr-2"></i>
-                    <span class="font-medium">Mais de 10.000 cópias vendidas</span>
-                </div>
-                <div class="flex items-center">
-                    <i class="fas fa-star text-3xl text-yellow-500 mr-2"></i>
-                    <span class="font-medium">Avaliação 4.9/5</span>
-                </div>
-                <div class="flex items-center">
-                    <i class="fas fa-lock text-3xl text-green-500 mr-2"></i>
-                    <span class="font-medium">Pagamento 100% seguro</span>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Features Section -->
-    <section id="features" class="py-16 bg-white">
-        <div class="container mx-auto px-4">
-            <h2 class="text-3xl font-bold text-center mb-12">O que você vai aprender</h2>
-            <div class="grid md:grid-cols-3 gap-8">
-                <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
-                    <div class="w-14 h-14 bg-pink-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-chart-line text-2xl text-pink-600"></i>
-                    </div>
-                    <h3 class="text-xl font-bold mb-3">Algoritmo Decifrado</h3>
-                    <p class="text-gray-600">Entenda exatamente como o algoritmo do TikTok funciona e como fazer seus vídeos serem priorizados.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
-                    <div class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-lightbulb text-2xl text-blue-600"></i>
-                    </div>
-                    <h3 class="text-xl font-bold mb-3">Ideias Virais</h3>
-                    <p class="text-gray-600">Mais de 100 ideias comprovadas de conteúdo que funcionam em qualquer nicho.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
-                    <div class="w-14 h-14 bg-purple-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-video text-2xl text-purple-600"></i>
-                    </div>
-                    <h3 class="text-xl font-bold mb-3">Edição Profissional</h3>
-                    <p class="text-gray-600">Técnicas avançadas de edição que fazem seus vídeos se destacarem, mesmo usando apenas o celular.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
-                    <div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-users text-2xl text-green-600"></i>
-                    </div>
-                    <h3 class="text-xl font-bold mb-3">Crescimento Rápido</h3>
-                    <p class="text-gray-600">Estratégias para ganhar milhares de seguidores reais em semanas, não em meses.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
-                    <div class="w-14 h-14 bg-yellow-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-dollar-sign text-2xl text-yellow-600"></i>
-                    </div>
-                    <h3 class="text-xl font-bold mb-3">Monetização</h3>
-                    <p class="text-gray-600">Aprenda a monetizar seus vídeos e transformar seu TikTok em uma fonte de renda.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
-                    <div class="w-14 h-14 bg-red-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-hands-helping text-2xl text-red-600"></i>
-                    </div>
-                    <h3 class="text-xl font-bold mb-3">Apoio Total</h3>
-                    <p class="text-gray-600">Acesso a um grupo exclusivo de suporte, para tirar dúvidas e trocar experiências com outros criadores.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="bg-gray-800 text-white py-8">
-        <div class="container mx-auto px-4 text-center">
-            <p>&copy; 2025 ViralTik. Todos os direitos reservados.</p>
-        </div>
-    </footer>
-</body>
-</html>
+                    <img src="https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg" alt="Capa do guia TikTok edição 2025" class="w-64 md:w-80 rounded-lg shadow-2xl floating">
+                    <div class="absolute -bottom-5
