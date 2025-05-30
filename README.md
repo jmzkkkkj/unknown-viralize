@@ -81,8 +81,7 @@
             </div>
             <div class="md:w-1/2 flex justify-center">
                 <div class="relative">
-                        <div class="absolute -bottom-5 -right-5 bg-yellow-400 text-gray-900 px-4 py-2 rounded-full font-bold text-sm">
-                        <i class="fas fa-bolt mr-1"></i> NOVA EDIÇÃO 2025
+                    
                     </div>
                 </div>
             </div>
