@@ -34,7 +34,7 @@
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
             <div class="flex items-center">
                 <i class="fab fa-tiktok text-2xl text-pink-600 mr-2"></i>
-                <span class="text-xl font-bold bg-gradient-to-r from-blue-400 to-pink-600 bg-clip-text text-transparent">ViralTik</span>
+                <span class="text-xl font-bold bg-gradient-to-r from-blue-400 to-pink-600 bg-clip-text text-transparent">UnknownViral</span>
             </div>
             <nav class="hidden md:flex space-x-8">
                 <a href="#features" class="text-gray-700 hover:text-pink-600 font-medium">Benefícios</a>
