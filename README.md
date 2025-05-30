@@ -10,8 +10,7 @@
         .hero-gradient {
             background: linear-gradient(135deg, #69bcf4 0%, #25fde9 50%, #fe2c55 100%);
         }
-        .pulse-animation {
-            animation: pulse 2s infinite;
+ 
         }
         @keyframes pulse {
             0% { transform: scale(1); }
