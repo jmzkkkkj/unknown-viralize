@@ -1,4 +1,4 @@
-<h<html lang="pt-BR">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,7 +34,7 @@
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
             <div class="flex items-center">
                 <i class="fab fa-tiktok text-2xl text-pink-600 mr-2"></i>
-                <span class="text-xl font-bold bg-gradient-to-r from-blue-400 to-pink-600 bg-clip-text text-transparent">UnkanownTIK</span>
+                <span class="text-xl font-bold bg-gradient-to-r from-blue-400 to-pink-600 bg-clip-text text-transparent">UnknownTIK</span>
             </div>
             <nav class="hidden md:flex space-x-8">
                 <a href="#features" class="text-gray-700 hover:text-pink-600 font-medium">Benefícios</a>
@@ -245,4 +245,3 @@
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
                                 <i class="
-</html>
