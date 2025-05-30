@@ -54,7 +54,7 @@
                 <h1 class="text-4xl md:text-5xl font-bold mb-4">Domine o TikTok e Vire uma Estrela!</h1>
                 <p class="text-xl mb-8">O guia definitivo para criar conteúdo viral, ganhar milhões de views e construir uma audiência fiel na plataforma que está dominando o mundo.</p>
                 <div class="flex flex-col sm:flex-row gap-4">
-                    <a href="#pricing" class="bg-white text-pink-600 font-bold py-3 px-8 rounded-full hover:bg-gray-100 transition duration-300 text-center pulse-animation">
+                    <a href="http://bit.ly/tiktok-dark-7-dias" target="_blank" class="bg-white text-pink-600 font-bold py-3 px-8 rounded-full hover:bg-gray-100 transition duration-300 text-center pulse-animation">
                         Compre Agora <i class="fas fa-arrow-right ml-2"></i>
                     </a>
                     <a href="#features" class="border-2 border-white text-white font-bold py-3 px-8 rounded-full hover:bg-white hover:text-pink-600 transition duration-300 text-center">
@@ -136,117 +136,27 @@
                 </div>
                 <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
                     <div class="w-14 h-14 bg-yellow-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-money-bill-wave text-2xl text-yellow-600"></i>
+                        <i class="fas fa-dollar-sign text-2xl text-yellow-600"></i>
                     </div>
                     <h3 class="text-xl font-bold mb-3">Monetização</h3>
-                    <p class="text-gray-600">Como transformar seu sucesso no TikTok em renda através de múltiplas fontes.</p>
+                    <p class="text-gray-600">Aprenda a monetizar seus vídeos e transformar seu TikTok em uma fonte de renda.</p>
                 </div>
                 <div class="bg-gray-50 p-6 rounded-xl hover:shadow-lg transition duration-300">
                     <div class="w-14 h-14 bg-red-100 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-shield-alt text-2xl text-red-600"></i>
+                        <i class="fas fa-hands-helping text-2xl text-red-600"></i>
                     </div>
-                    <h3 class="text-xl font-bold mb-3">Evitando Erros</h3>
-                    <p class="text-gray-600">Os 20 maiores erros que fazem seu conteúdo ser ignorado pelo algoritmo (e como evitá-los).</p>
+                    <h3 class="text-xl font-bold mb-3">Apoio Total</h3>
+                    <p class="text-gray-600">Acesso a um grupo exclusivo de suporte, para tirar dúvidas e trocar experiências com outros criadores.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Content Preview -->
-    <section id="content" class="py-16 bg-gray-50">
-        <div class="container mx-auto px-4">
-            <h2 class="text-3xl font-bold text-center mb-12">O que está dentro do e-book?</h2>
-            <div class="flex flex-col md:flex-row gap-8">
-                <div class="md:w-1/2">
-                    <img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80" alt="Preview do e-book" class="rounded-lg shadow-lg w-full">
-                </div>
-                <div class="md:w-1/2">
-                    <div class="mb-6">
-                        <h3 class="text-xl font-bold mb-2 flex items-center">
-                            <i class="fas fa-check-circle text-green-500 mr-2"></i> Capítulo 1: Entendendo o Ecossistema TikTok
-                        </h3>
-                        <p class="text-gray-600 ml-7">Como a plataforma funciona, o que mudou nos últimos anos e como se posicionar para o sucesso.</p>
-                    </div>
-                    <div class="mb-6">
-                        <h3 class="text-xl font-bold mb-2 flex items-center">
-                            <i class="fas fa-check-circle text-green-500 mr-2"></i> Capítulo 2: O Algoritmo Revelado
-                        </h3>
-                        <p class="text-gray-600 ml-7">Os fatores secretos que determinam quais vídeos são impulsionados e como otimizar seu conteúdo.</p>
-                    </div>
-                    <div class="mb-6">
-                        <h3 class="text-xl font-bold mb-2 flex items-center">
-                            <i class="fas fa-check-circle text-green-500 mr-2"></i> Capítulo 3: Produção de Conteúdo Viral
-                        </h3>
-                        <p class="text-gray-600 ml-7">Estruturas comprovadas para hooks, roteiros e chamadas para ação que aumentam o engajamento.</p>
-                    </div>
-                    <div class="mb-6">
-                        <h3 class="text-xl font-bold mb-2 flex items-center">
-                            <i class="fas fa-check-circle text-green-500 mr-2"></i> Capítulo 4: Estratégias de Crescimento
-                        </h3>
-                        <p class="text-gray-600 ml-7">Técnicas avançadas para ganhar seguidores rapidamente e manter o crescimento consistente.</p>
-                    </div>
-                    <div class="mb-6">
-                        <h3 class="text-xl font-bold mb-2 flex items-center">
-                            <i class="fas fa-check-circle text-green-500 mr-2"></i> Capítulo 5: Monetizando Seu Sucesso
-                        </h3>
-                        <p class="text-gray-600 ml-7">Todas as formas de ganhar dinheiro com seu perfil, desde o TikTok Creator Fund até patrocínios.</p>
-                    </div>
-                    <div class="bg-blue-50 p-4 rounded-lg border border-blue-200">
-                        <h4 class="font-bold text-blue-800 mb-2 flex items-center">
-                            <i class="fas fa-gift text-blue-600 mr-2"></i> Bônus Exclusivo
-                        </h4>
-                        <p class="text-blue-700">Ao comprar hoje, você recebe acesso a nossa comunidade VIP no Discord com atualizações semanais sobre as últimas tendências do TikTok!</p>
-                    </div>
-                </div>
-            </div>
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-4 text-center">
+            <p>&copy; 2025 ViralTik. Todos os direitos reservados.</p>
         </div>
-    </section>
-
-    <!-- Testimonials -->
-    <section id="testimonials" class="py-16 bg-white">
-        <div class="container mx-auto px-4">
-            <h2 class="text-3xl font-bold text-center mb-12">O que dizem nossos alunos</h2>
-            <div class="grid md:grid-cols-3 gap-8">
-                <div class="bg-gray-50 p-6 rounded-xl">
-                    <div class="flex items-center mb-4">
-                        <img src="https://randomuser.me/api/portraits/women/33.jpg" class="w-12 h-12 rounded-full mr-4">
-                        <div>
-                            <h4 class="font-bold">Ana Clara</h4>
-                            <div class="flex text-yellow-400">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="text-gray-600 italic">"Em 3 semanas aplicando as estratégias do e-book, meu perfil passou de 1.000 para 25.000 seguidores! Consegui meu primeiro patrocínio e já estou ganhando mais do que no meu emprego normal."</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-xl">
-                    <div class="flex items-center mb-4">
-                        <img src="https://randomuser.me/api/portraits/men/45.jpg" class="w-12 h-12 rounded-full mr-4">
-                        <div>
-                            <h4 class="font-bold">Ricardo</h4>
-                            <div class="flex text-yellow-400">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <p class="text-gray-600 italic">"O capítulo sobre o algoritmo mudou completamente minha abordagem. Meu último vídeo teve 2.3 milhões de views e estou recebendo mensagens de marcas todos os dias. Valeu cada centavo!"</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-xl">
-                    <div class="flex items-center mb-4">
-                        <img src="https://randomuser.me/api/portraits/women/68.jpg" class="w-12 h-12 rounded-full mr-4">
-                        <div>
-                            <h4 class="font-bold">Juliana</h4>
-                            <div class="flex text-yellow-400">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="
+    </footer>
+</body>
 </html>
